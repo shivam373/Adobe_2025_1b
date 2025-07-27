@@ -33,7 +33,7 @@ adobe_2025_1b/
 │  
 ├── models/                   # Lightweight model under 1GB (if needed)  
 │  
-├── Readme.md                 # Required explanation (300–500 words) 
+├── Readme.md                 # Required explanation (300–500 words)  
 ├── run.py                    # Main entry point
 ├── Dockerfile               # For deployment (CPU-only)  
 └── requirements.txt         # Python dependencies  
