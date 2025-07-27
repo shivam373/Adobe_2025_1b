@@ -1,0 +1,183 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T01:41:02.717347"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "section_title": "Begin New Section",
+            "importance_rank": 1,
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "section_title": "Management Conversion Extraction",
+            "importance_rank": 2,
+            "page_number": 26
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Access By Applying The Following Security Policy",
+            "importance_rank": 3,
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Page Setup Document Setup",
+            "importance_rank": 4,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "section_title": "Excel Workbook Settings",
+            "importance_rank": 5,
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Restrict Editing And Printing Of The Document",
+            "importance_rank": 6,
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Prompt For Selecting Excel Sheets",
+            "importance_rank": 7,
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+            "importance_rank": 8,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Add Document Information",
+            "importance_rank": 9,
+            "page_number": 16
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Document Open Password",
+            "importance_rank": 10,
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "section_title": "Excel-specific options on the Settings tab",
+            "importance_rank": 11,
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Acrobat PDFMaker Office COM Add-in",
+            "importance_rank": 12,
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Restrict Access Only To",
+            "importance_rank": 13,
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "PDF Creation Methods",
+            "importance_rank": 14,
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "section_title": "Word Document or Word 97-2003",
+            "importance_rank": 15,
+            "page_number": 30
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Edit_2.pdf",
+            "refined_text": "Begin New Section: Starts a new numbering sequence. Choose a style from the pop-up",
+            "page_number": 13
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "refined_text": "and settings for the file type.",
+            "page_number": 26
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "policy in the list. In this case, the PDF is secured before it is attached to the email message.",
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Page menu.",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "refined_text": "Specifies whether to create a Worksheet for each table or page, or the entire document.",
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Restrict Editing And Printing Of The Document When selected, makes the other Permissions options available.",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Prompt For Selecting Excel Sheets Opens a dialog box at the beginning of the file conversion process. In this dialog box, you can specify which worksheets are included in the PDF and the order in which the sheets appear in the PDF.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "If the PDF toolbar buttons don’t appear in your Microsoft Office or Lotus Notes application, use one of the following methods to show or activate PDFMaker. For Lotus Notes 9, choose File > Preferences. In the dialog box that appears,",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Add Document Information Includes information such as the filename and date and time of creation.",
+            "page_number": 16
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Document Open Password password that users must use to open the document.",
+            "page_number": 21
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_2.pdf",
+            "refined_text": "Excel-specific options on the Settings tab",
+            "page_number": 6
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "COM Add-Ins from the Manage pop-up menu and select Go.",
+            "page_number": 14
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "• Restrict Access Only To People In This Message’s To:, Cc:, And Bcc: List. In this case, the PDF isn’t",
+            "page_number": 18
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "",
+            "page_number": 2
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "refined_text": "Word Document or Word 97-2003 Saves the content as a Word file. • Excel Workbook, XML Spreadsheet, or CSV",
+            "page_number": 30
+        }
+    ]
+}

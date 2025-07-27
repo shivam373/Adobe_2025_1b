@@ -1,0 +1,7 @@
+myenv
+.gitignore
+.gitattributes
+sentence_trf_sim.py
+models
+additional_requirements
+
