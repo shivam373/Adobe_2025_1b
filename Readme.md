@@ -15,7 +15,7 @@ Ensure you have the following:
 - A `persona.json` file with `persona` and `job_to_be_done`
 
 
-# Project Structure 
+## Project Structure 
 
 adobe_2025_1b/  
 ├── data/  
