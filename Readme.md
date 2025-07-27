@@ -54,21 +54,3 @@ adobe_2025_1b/
    ```bash
    docker run --rm -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output info-retrieval-app
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-
->>>>>>> 2028991c78529256f7fb8845bc18da6e7775940c
