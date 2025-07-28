@@ -14,7 +14,7 @@ output_file = "data/output.json"
 def load_persona_info(persona_file):
     with open(persona_file, "r", encoding="utf-8") as f:
         data = json.load(f)
-    return data["metadata"]["persona"], data["metadata"]["job_to_be_done"]
+    return data["persona"], data["job_to_be_done"]
 
 persona, job = load_persona_info(persona_file)
 
