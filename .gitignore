@@ -2,4 +2,4 @@ myenv
 # temporary files 
 sentence_trf_sim.py
 download.py
-
+persona_reader.py
