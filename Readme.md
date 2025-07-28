@@ -1,4 +1,4 @@
-# 📘 Documentation — Adobe_2025_1b
+# 📘 Documentation — CONNECTING THE DOTS 1b
 
 This project extracts and ranks relevant sections from PDF documents based on a persona and a specific goal (job to be done). It uses semantic similarity and OCR to identify and refine relevant information.
 
