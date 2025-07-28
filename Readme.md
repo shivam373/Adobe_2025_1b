@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# 📘 Documentation — Adobe_2025_1b
+# CONNECTING THE DOTS 1b
 
 This project extracts and ranks relevant sections from PDF documents based on a persona and a specific goal (job to be done). It uses semantic similarity and OCR to identify and refine relevant information.
 
@@ -16,28 +15,28 @@ Ensure you have the following:
 - A `persona.json` file with `persona` and `job_to_be_done`
 
 
-# Project Structure 
+## Project Structure 
 
-adobe_2025_1b/
-├── data/
-│   ├── input_docs/           # PDF input files
-│   ├── persona.json          # Persona & job spec
-│   └── output.json           # Final output JSON
-│
-├── src/
-│   ├── __init__.py
-│   ├── pdf_parser.py         # PDF + OCR based text extraction (reuse from 1A)
- focus areas
-│   ├── relevance_ranker.py   # Rank document sections/subsections
-│   ├── json_formatter.py     # Output in required JSON format
-│   └── utils.py              # Any helper functions
-│
-├── models/                   # Lightweight model under 1GB (if needed)
-│
-├── Readme.md                 # Required explanation (300–500 words)
-├── run.py                   # Main entry point
-├── Dockerfile               # For deployment (CPU-only, <=1GB)
-└── requirements.txt         # Python dependencies
+adobe_2025_1b/  
+├── data/  
+│   ├── input_docs/           # PDF input files  
+│   ├── persona.json          # Persona & job spec  
+│   └── output.json           # Final output JSON  
+│  
+├── src/  
+│   ├── __init__.py  
+│   ├── pdf_parser.py         # PDF + OCR based text extraction (reuse from 1A)  
+ focus areas  
+│   ├── relevance_ranker.py   # Rank document sections/subsections  
+│   ├── json_formatter.py     # Output in required JSON format  
+│   └── utils.py              # Any helper functions  
+│  
+├── models/                   # Lightweight model under 1GB (if needed)  
+│  
+├── Readme.md                 # Required explanation (300–500 words)  
+├── run.py                    # Main entry point  
+├── Dockerfile               # For deployment (CPU-only)  
+└── requirements.txt         # Python dependencies  
 
 ---
 
@@ -53,23 +52,5 @@ adobe_2025_1b/
 2. **Run**
    
    ```bash
-   docker run --rm -v $(pwd)/data:/app/data -v $(pwd)/output:/app/output info-retrieval-app
+   docker run --rm -v $(pwd)/data:/app/data info-retrieval-app
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
-
->>>>>>> 2028991c78529256f7fb8845bc18da6e7775940c
