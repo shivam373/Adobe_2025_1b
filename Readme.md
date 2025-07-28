@@ -52,5 +52,5 @@ adobe_2025_1b/
 2. **Run**
    
    ```bash
-   docker run --rm -v $(pwd)/data:/app/data info-retrieval-app
+   docker run --rm -v $(Get-Location)/data:/app/data info-retrieval-app
    
